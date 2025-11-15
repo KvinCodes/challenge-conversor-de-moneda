@@ -1,2 +1,9 @@
-# Configuración sensible
-/config/config.properties
+# Ignorar archivo de configuraciones sensibles
+config/config.properties
+
+# Ignorar carpeta lib si quieres
+lib/
+
+# Ignorar archivos de IntelliJ
+.idea/
+*.iml
